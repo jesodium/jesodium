@@ -1,5 +1,5 @@
 #  Hi.
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jesodium)](https://github.com/anuraghazra/github-readme-stats)
+![Jesodium's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesodium&show_icons=true&theme=radical)
 
 
 ---
