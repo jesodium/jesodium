@@ -1,5 +1,6 @@
 #  Hi.
-![Jesodium's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesodium&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jesodium&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
