@@ -15,6 +15,7 @@
 ### Achievements
 [![WRO 2022](https://img.shields.io/badge/WRO_2022-National_Qualifier-FFD700?style=for-the-badge)](https://wro-association.org/) 
 [![WRO 2023](https://img.shields.io/badge/WRO_2023-International_Qualifier-FFD700?style=for-the-badge)](https://wro-association.org/)
+[![WRO 2026](https://img.shields.io/badge/WRO_2026-Qualifying_Round_(Active)_-FFD700?style=for-the-badge)](https://wro-association.org/)
 
 <br/>
 
