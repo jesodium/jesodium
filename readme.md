@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Internalization&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F0F0F&ring=DD2727&currStreakLabel=DD2727&fire=DD2727)</br>
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Jesodium&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F0F0F&ring=DD2727&currStreakLabel=DD2727&fire=DD2727)</br>
   
   </br>
 
