@@ -12,7 +12,6 @@
 [![Robotics](https://img.shields.io/badge/Robotics-FF6F61?style=flat-square&logoColor=white)](https://www.robotics.org/)
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Finance](https://img.shields.io/badge/Finance-008080?style=flat-square&logoColor=white)](https://www.investopedia.com/)
-[![Hobby Builder](https://img.shields.io/badge/Hobby_Builder-AAAAAA?style=flat-square&logoColor=white)](#)
 
 <br/>
 
