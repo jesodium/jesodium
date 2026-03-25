@@ -21,7 +21,6 @@
 ### Specs
 [![GPU](https://img.shields.io/badge/AMD-RX_6600_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.sapphiretech.com/en/consumer/nitro-rx-6600-xt-8g-gddr6) 
 [![CPU](https://img.shields.io/badge/Intel_i3_12100-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://www.amazon.com/Intel-Core-i3-12100-Processor-Graphics/dp/B09N55FR99/) 
-[![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/en-us/windows) 
 [![MacBook Air M4](https://img.shields.io/badge/MacBook_Air_M4-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-air-m4/)
 
 <br/>
