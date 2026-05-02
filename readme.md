@@ -11,7 +11,6 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Robotics](https://img.shields.io/badge/Robotics-FF6F61?style=flat-square&logoColor=white)](https://www.robotics.org/)
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-[![Finance](https://img.shields.io/badge/Finance-008080?style=flat-square&logoColor=white)](https://www.investopedia.com/)
 
 <br/>
 
