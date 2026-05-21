@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jesodium&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/jesodium/jesodium/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jesodium/jesodium/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
 
 ###
