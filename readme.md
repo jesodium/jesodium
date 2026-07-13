@@ -21,10 +21,6 @@
 
 ###
 
-[![My GitFut card](https://gitfut.com/jesodium.png)](https://gitfut.com/jesodium)
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/jesodium/jesodium/snake-output/snake.svg" alt="Snake animation" />
