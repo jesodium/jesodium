@@ -21,11 +21,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/chiwichiwi2010">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=chiwichiwi2010&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+[![My GitFut card](https://gitfut.com/jesodium.png)](https://gitfut.com/jesodium)
 
 ###
 
